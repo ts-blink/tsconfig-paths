@@ -1,5 +1,5 @@
 {
-  "name": "tsconfig-paths",
+  "name": "ts-blink-tsconfig-paths",
   "version": "3.9.0",
   "description": "Load node modules according to tsconfig paths, in run-time or via API.",
   "main": "lib/index.js",
